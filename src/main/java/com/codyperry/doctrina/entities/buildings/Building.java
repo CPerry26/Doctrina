@@ -1,4 +1,4 @@
-package com.codyperry.doctrina.entities;
+package com.codyperry.doctrina.entities.buildings;
 
 /**
  * Base level building. All buildings implement this interface.

@@ -1,4 +1,4 @@
-package com.codyperry.doctrina.entities;
+package com.codyperry.doctrina.entities.units;
 
 /**
  * All unit types implement this interface. All the specific

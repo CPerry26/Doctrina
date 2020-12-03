@@ -5,5 +5,6 @@ package com.codyperry.doctrina.entities.buildings;
  */
 public enum BuildingType
 {
-    DWELLING
+    DWELLING,
+    MILITARY
 }

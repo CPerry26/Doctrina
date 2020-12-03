@@ -2,6 +2,11 @@ package com.codyperry.doctrina.entities.buildings;
 
 import com.codyperry.doctrina.entities.units.UnitType;
 
+/**
+ * This interface represents a military building which is a special kind
+ * of building. It can defend itself, as well as attack. It can also
+ * produce military units. All military building types implement this interface.
+ */
 public interface MilitaryBuilding extends Building
 {
 
